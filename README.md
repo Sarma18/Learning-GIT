@@ -1,2 +1,2 @@
 # Learning-GIT
-Just looking into how the GIT work
+Just looking into how to use GIT
